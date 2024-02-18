@@ -1,0 +1,1 @@
+/home/pi/beacon_klipper/beacon.py
